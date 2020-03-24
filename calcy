@@ -143,6 +143,7 @@ while i >= 3:
         print("Baki Sab Try Karna Kyu Idhar Tapak Raha Hai...")
     else:
         print("Invalid Input\n\tTry Again.")
+	i += i
         
 print("Max Limit Reached")
 time.sleep(3)
